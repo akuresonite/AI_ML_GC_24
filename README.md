@@ -1,4 +1,4 @@
-# AI/ML Medical Image General Championship 2023
+# AI/ML Medical Image General Championship 2024
 KCDH IIT Bombay | Web & Coding Club IIT Bombay | Deep Learning
 ---
 
